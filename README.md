@@ -334,6 +334,15 @@ Check out these few;
 
 ---
 
+---
+
+## **📈 GitHub Stats & Activity**  
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+
+---
+
 ## 📫 Let's Connect
 - [LinkedIn](httpswww.linkedin.cominighoruepaul)
 - [YouTube](httpswww.youtube.com@JohnPaulIghorue)
@@ -342,7 +351,14 @@ Check out these few;
 - [MyLifeImpactors](httpsgithub.comXbox2020Diary-of-Works)  I also have a mentions Page, the best I have learned from are here (in no specific order of seniority or importance) ;
    
 
+---
 
+### **🖥️ Daily Coding Setup**  
+
+```bash
+OS: Kali Linux / Windows Subsystem for Linux (WSL2)  
+Editor: VS Code (with Vim keybindings)  
+Terminal: Zsh + Oh-My-Zsh + Powerlevel10k  
 
 
 ---
