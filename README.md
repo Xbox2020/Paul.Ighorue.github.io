@@ -11,18 +11,16 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ighoruepaul/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Works-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://datascienceportfol.io/ighoruejp)
+[![Portfolio](https://img.shields.io/badge/📁%20Portfolio-View%20My%20Works-blueviolet?style=for-the-badge)](https://datascienceportfol.io/ighoruejp)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
 [![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
 
 
+
 ---  
-# 👋 Focus Areas
-
-
-![GitHub Stats](httpsgithub-readme-stats.vercel.appapiusername=Xbox2020&show_icons=true&theme=radical)
+# 👋 Lets Talk 💬🤓🫡
 
 
 - Power Bi Projects and Cloud Services in Microsoft 365
@@ -38,7 +36,32 @@ I am Passionate about large-scale digital projects, providing strategic insights
 ---
 
 
-## 🎓 Education
+## **🛠️ Technical Skills 🔧 **
+
+| **Category**                        | **Technologies & Tools**                                                                                                        |
+|--------------------------------------|----------------------------------------------------------------------------------------------------------------------------------|
+| **Data Analysis & Querying**         | SQL, Excel (Advanced), Google Sheets, SAS, IBM SPSS, BigQuery                                                                   |
+| **Data Visualization**               | Power BI, Tableau, Qlik Sense, Looker, Google Data Studio                                                                      |
+| **Business Process Modeling & Design** | BPMN, Visio, Lucidchart, Bizagi, Draw.io                                                                                        |
+| **Requirements & Collaboration Tools** | JIRA, Confluence, Azure DevOps, Trello, Monday.com, Notion                                                                     |
+| **Automation & Scripting**           | Python (pandas, numpy), R, VBA, Power Automate, Alteryx, UiPath                                                                |
+| **Cloud Platforms**                  | AWS (QuickSight, Redshift), Azure (Synapse, Logic Apps), Google Cloud (Looker, BigQuery)                                       |
+| **CRM & ERP Systems**                | Salesforce, SAP, Oracle NetSuite, Microsoft Dynamics 365                                                                        |
+| **Agile & Project Management**       | Scrum, Kanban, SAFe, Microsoft Project, Asana, Smartsheet                                                                      |
+| **Version Control & DevOps Tools**   | Git, GitHub, Bitbucket, Jenkins, Docker (basic understanding for integration discussions)                                       |
+| **Basic Machine Learning (for BA insight generation)** | Scikit-learn, AutoML Tools (e.g., DataRobot, Google AutoML)                                                                    |
+| **Communication & Documentation**    | MS Office Suite, Slack, Zoom, Google Workspace                                                                                  |
+| **Languages**                        | Python, SQL, Excel, Power BI, GoLang, Java                                                                                     |
+| **Cybersecurity**                    | VAPT, Penetration Testing, Vulnerability Assessment                                                                            |
+| **OSINT Tools**                      | ExifTool, Recon-ng, SpiderFoot, FinalRecon                                                                                     |
+| **Visualisations & Collaboration**   | Visio, Power BI, Excel, Tableau, Confluence, Jira                                                                              |
+
+
+
+---
+
+
+## 🎓 Education 🏫🎒📚
 - MSc. International Business and Global Finance, Hertfordshire University | Dean Award Winner | Graduated 1st Class
 - MBA Graduate, Finance, Pan Atlantic university |  Distinction
 - BSC. Graduate  Applied Geophysics, Federal University of Lagos, Akoka, Nigeria
@@ -72,24 +95,81 @@ Collaorations: Confluence, Jira
 
 ## 🚀 Key Projects
 
-### 1. OSINT Recon Toolkit
+### **A. Cyber Security 
+#### **1. Cloud Penetration Testing Framework**  
+🔗 [GitHub Repo](#) | 🛡️ **AWS/Azure/GCP Security Testing**  
+- Automated cloud security assessment toolkit for misconfigurations & IAM vulnerabilities.  
+- Integrated with **Prowler, ScoutSuite, and Pacu** for comprehensive audits.  
+
+#### **2. Red Team Automation Toolkit**  
+🔗 [GitHub Repo](#) | ⚔️ **Offensive Security Automation**  
+- Python-based tool for **automated privilege escalation, lateral movement, and C2 setup**.  
+- Supports **Active Directory exploitation (BloodHound, Mimikatz integration)**.  
+
+#### **3. Web App Vulnerability Scanner**  
+🔗 [GitHub Repo](#) | 🕵️ **OWASP Top 10 Detection**  
+- Custom scanner for **SQLi, XSS, CSRF, and SSRF** detection.  
+- Integrated with **Burp Suite API** for dynamic analysis.  
+
+
+
+#### 4. OSINT Recon Toolkit
 Python-based OSINT toolkit for Domain, IP, Email, and Social Media investigations.  
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886osint-toolkit)
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository&StepByStepWalkThrough-black)](httpsgithub.comXbox2020Cyber-OSINT-Recon-Toolkit)
 
-### 2. VAPT Scanning Website
+#### 5. VAPT Scanning Website
 Web-based tool for automated Vulnerability Assessment and Penetration Testing.  
 Tech Stack Python, PHP, SQL  
 Features Automated scans, vulnerability reports, remediation guides.  
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886vapt-scanner-link-from-Repositories-URL)
 
 
-### 3. Project Title
+#### 6. Vulnerability Assessment
 Web-based tool for automated Vulnerability Assessment and Penetration Testing.  
 Tech Stack Python, PHP, SQL  
 Features Automated scans, vulnerability reports, remediation guides.  
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886Next-project-link-from-Repositories-URL)
 
+---
+### **A. Business Analysis 
+
+### **A. Business Analytics Projects**  
+
+#### **1. Financial Performance Dashboard**  
+🔗 [GitHub Repo](#) | 💰 **Finance & Investment Analysis**  
+- Developed an **interactive Power BI dashboard** visualizing profit/loss trends, EBITDA, and financial ratios.  
+- Connected to SQL-based ledger system with automated ETL pipelines using **Python (pandas, SQLAlchemy)**.  
+
+#### **2. Logistics Route Optimization**  
+🔗 [GitHub Repo](#) | 🚚 **Supply Chain & Delivery Intelligence**  
+- Designed a logistics efficiency model using **geospatial analysis and clustering (K-Means)** to minimize delivery costs.  
+- Resulted in a **17% reduction in transportation overhead** for a simulated e-commerce network.  
+
+#### **3. Retail Banking Churn Prediction**  
+🔗 [GitHub Repo](#) | 🏦 **Customer Retention in Banking**  
+- Built a **churn prediction model** using logistic regression and decision trees (Scikit-learn).  
+- Enabled targeted retention campaigns with a **lift of 23%** in high-risk customer segment engagement.  
+
+#### **4. Sales Forecasting Engine**  
+🔗 [GitHub Repo](#) | 📈 **Demand Prediction**  
+- Time series forecasting using **ARIMA and Facebook Prophet** on historical POS data.  
+- Integrated seasonal promotions and weather patterns for accurate demand projections.  
+
+#### **5. Targeted Marketing Campaign Analytics**  
+🔗 [GitHub Repo](#) | 🎯 **Customer Segmentation & ROI Tracking**  
+- Leveraged **RFM analysis and K-means clustering** to create customer personas.  
+- Monitored A/B test performance to **optimize email marketing ROI by 38%**.  
+
+#### **6. Fraud Detection in E-commerce Transactions**  
+🔗 [GitHub Repo](#) | 🕵️ **Anomaly Detection with ML**  
+- Applied unsupervised learning (Isolation Forest, One-Class SVM) to detect suspicious transactions.  
+- Developed alert system integrated with business rules for **real-time fraud flagging**.  
+
+#### **7. Automated Annual Company Statement Reporting**  
+🔗 [GitHub Repo](#) | 🧾 **Financial Document Automation**  
+- Built a reporting tool using **Python + Jinja2 + Excel templates** to auto-generate annual reports from raw data.  
+- Includes **visual summaries, financial KPIs, and peer comparisons**.  
 
 
 ---
