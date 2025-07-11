@@ -16,6 +16,13 @@ I am Passionate about large-scale digital projects, providing strategic insights
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
 [![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
+---
+# GetGitAndGetBy<<<<<>>>>>OrGoHome!
+
+<!-- Header GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
+</p>
 
 
 
@@ -333,13 +340,13 @@ Check out these few;
 - 🔍 penTEST Techniques Networks, Web Applications, Social Engineering, Physical Penetration, Cloud & IoT, Post-Exploration, Red Team & Advanced Techniques,  
 
 ---
-
 ---
+## 📊 GitHub Stats
 
-## **📈 GitHub Stats & Activity**  
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
