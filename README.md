@@ -21,7 +21,7 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
 ---  
 # 👋 Hey Click the Stars Button in the Top Right Hand Corner, and Lets Talk Data 💬🤓🫡
-
+💼 **Open to:
 
 - Power Bi Projects and Cloud Services in Microsoft 365
 - Cloud Enterprise using AWS, Google and Azure for Business Solutions
