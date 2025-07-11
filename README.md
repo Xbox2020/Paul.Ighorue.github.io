@@ -95,7 +95,10 @@ Collaorations: Confluence, Jira
 
 ## 🚀 Key Projects
 
-### **A. Cyber Security 
+
+### **A. Industry-Focused Cyber Security  Projects**
+
+
 #### **1. Cloud Penetration Testing Framework**  
 🔗 [GitHub Repo](#) | 🛡️ **AWS/Azure/GCP Security Testing**  
 - Automated cloud security assessment toolkit for misconfigurations & IAM vulnerabilities.  
@@ -132,9 +135,8 @@ Features Automated scans, vulnerability reports, remediation guides.
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886Next-project-link-from-Repositories-URL)
 
 ---
-### **A. Business Analysis 
+### **B. Industry-Focused Business Analytics Projects**
 
-### **A. Business Analytics Projects**  
 
 #### **1. Financial Performance Dashboard**  
 🔗 [GitHub Repo](#) | 💰 **Finance & Investment Analysis**  
@@ -205,7 +207,9 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Leveraged **RFM analysis and K-means clustering** to create customer personas.  
 - Monitored A/B test performance to **optimize email marketing ROI by 38%**.  
 
-### **B. Industry-Focused Analytics Projects**
+
+---
+### **C. Industry-Focused Analytics Projects**
 
 #### **12. Human Capital Insights Dashboard**  
 🔗 [GitHub Repo](#) | 👥 **Workforce Analytics & Retention**  
