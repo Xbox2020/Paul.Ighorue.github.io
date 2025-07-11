@@ -20,7 +20,7 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
 
 ---  
-# 👋 Lets Talk 💬🤓🫡
+# 👋 Hey Click the Stars Button in the Top Right Hand Corner, and Lets Talk Data 💬🤓🫡
 
 
 - Power Bi Projects and Cloud Services in Microsoft 365
