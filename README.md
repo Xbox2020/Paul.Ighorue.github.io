@@ -1,16 +1,12 @@
-My Resume.
-# Resume
 
+# 👋 Hi, I'm IGHORUE Paul
+Before we get ahead of ourselves, we must remember C"Claboration always outpaces Competition!".
 
-
-# 👋 Hi, I'm SURNAME Firstname
-Before we get ahead of ourselves, we must remember Colaboration always outpaces competition!
-
-I am a recent graduate with some experience in Business Analytics and and transitioning into a ;
-Cybersecurity Specialist  OSINT Expert  Penetration Tester  
+I am an experienced Business Analyst and my love for using data in businees Intelligence now leads in my transitioning into a ;
+Cybersecurity Specialist | OSINT Expert | Penetration Tester  with a view to becoming a CISo that not just protects data but makes it a bad day for threat actors!!!
 I am Passionate about Ethical Hacking, VAPT, and Cyber Defense....and you can view my daily contributing as regards in these areas;
 
-[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpslinkedin.cominyourprofile)
+[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](linkedin.com/in/ighoruepaul/)
 [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpswww.linkedin.cominighoruepaul)
 [![YouTube](httpsimg.shields.iobadgeYouTube-Subscribe-redstyle=flat&logo=youtube)](httpswww.youtube.com@JohnPaulIghorue)
 [![Projects](httpsimg.shields.iobadge📄-View_Projects-green)](httpsyourresumelink.com)
@@ -20,19 +16,32 @@ I am Passionate about Ethical Hacking, VAPT, and Cyber Defense....and you can vi
 
 
 ---  
-
+# 👋 Focus Areas
 
 
 ![GitHub Stats](httpsgithub-readme-stats.vercel.appapiusername=Xbox2020&show_icons=true&theme=radical)
+
+
+- Power Bi Projects and Cloud Services in Microsoft 365
+- Cloud Enterprise using AWS, Google and Azure for Business Solutions
+- Back-end REST API Development with Node.JS and Express
+- Implementation of custom and third-party authentication function using Node.JS
+- Front-end UI development using ReactJS as well as Javascript
+- Development of Proof-of-Concept Keylogger using Visual C# (Security Awareness)
+- Development of Proof-of-Concept Ransomware using Visual C# (Security Awareness)
+- Development of training materials including graphical illustrations and content in-code
+- Management of versioning platform and code repositories (Github)
+
 ---
 
 
 ## 🎓 Education
-- PhD. in Computer Science  
-- MSc. & Dean Award Winner Graduate  1st Class M.Sc. in International Business and Global Finance
-- MBA Graduate  1st Class Pan Atlantic University, Lagos Business School
+- MSc. International Business and Global Finance, Hertfordshire University | Dean Award Winner | Graduated 1st Class
+- MBA Graduate, Finance, Pan Atlantic university |  Distinction
 - BSC. Graduate  Applied Geophysics, Federal University of Lagos, Akoka, Nigeria
-- GIAC  Pursuing CISO Certification. in Cybersecurity
+- Microsoft Business Analyst | Certificationn in View
+- IBM Trained Analyst  | Certificationn in View
+- Pursuing GIAC towards CISO Certification in Cybersecurity
 
   
 
@@ -41,7 +50,7 @@ Languages: Python, SQL, Excel, Power BI, GoLANG, Java
 Cybersecurity: VAPT, Penetration Testing, Vulnerability Assessment   
 OSINT Tools: ExifTool, Recon-ng, SpiderFoot, FinalRecon    
 Visualisations: Visio, Power BI, Excel, Tableau
-Collaorations: Confluence, Jira
+Collaorations: Confluence, Jira  
 
 ## 🏆 Certifications
 - Google Cyber Security for Professionals
