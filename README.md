@@ -377,9 +377,7 @@ Check out these few;
 - [YouTube](httpswww.youtube.com@JohnPaulIghorue)
 - [![Email Me](https://img.shields.io/badge/Email-Request%20Access-blue?style=for-the-badge&logo=gmail)](mailto:ighoruejp@gmail.com)
 
-- Send me an Email [Here](httpbit.ly4euDiea)
-
-- [MyLifeImpactors](httpsgithub.comXbox2020Diary-of-Works)  I also have a mentions Page, the best I have learned from are here (in no specific order of seniority or importance) ;
+- [MyLifeImpactors](httpsgithub.comXbox2020Diary-of-Works)  I also have a mentions Page, the best I have learned from are honored here (in no specific order of seniority or importance) ;
    
 
 ---
