@@ -93,6 +93,21 @@ Visualisations: Visio, Power BI, Excel, Tableau
 Collaorations: Confluence, Jira  
 
 ## 🏆 Certifications
+
+<p align="center">
+🔒 Certified Cybersecurity Professional &nbsp;|&nbsp; 🔍 Red Hat Certified &nbsp;|&nbsp; ☁️ Multi-Cloud Security Specialist &nbsp;|&nbsp; 🛡️ SecOps Specialist &nbsp;|&nbsp; ⚙️ Offensive Security Practitioner
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Penetration%20Testing-Advanced-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cloud%20Security-Expert-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Red%20Hat-Certified-red?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multi--Cloud%20(AWS,%20Azure,%20GCP)-Certified-orange?style=for-the-badge" />
+
+</p>
+
+
+---
 - Google Cyber Security for Professionals
 - Cisco Junior Cybersecurity Analyst
 - - CompTIA Network+
