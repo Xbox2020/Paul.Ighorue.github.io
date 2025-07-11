@@ -120,8 +120,6 @@ Collaorations: Confluence, Jira
 Email a Request to see them all [**here**](mailto:ighoruejp@gmail.com)
 
 
-(Email a Request to see them all [[here](httpbit.ly4euDiea)])
-
 ---
 
 ## 🚀 Key Projects
@@ -377,6 +375,8 @@ Check out these few;
 ## 📫 Let's Connect
 - [LinkedIn](httpswww.linkedin.cominighoruepaul)
 - [YouTube](httpswww.youtube.com@JohnPaulIghorue)
+- [![Email Me](https://img.shields.io/badge/Email-Request%20Access-blue?style=for-the-badge&logo=gmail)](mailto:ighoruejp@gmail.com)
+
 - Send me an Email [Here](httpbit.ly4euDiea)
 
 - [MyLifeImpactors](httpsgithub.comXbox2020Diary-of-Works)  I also have a mentions Page, the best I have learned from are here (in no specific order of seniority or importance) ;
