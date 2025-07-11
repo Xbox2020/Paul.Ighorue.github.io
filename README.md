@@ -139,37 +139,120 @@ Features Automated scans, vulnerability reports, remediation guides.
 #### **1. Financial Performance Dashboard**  
 🔗 [GitHub Repo](#) | 💰 **Finance & Investment Analysis**  
 - Developed an **interactive Power BI dashboard** visualizing profit/loss trends, EBITDA, and financial ratios.  
-- Connected to SQL-based ledger system with automated ETL pipelines using **Python (pandas, SQLAlchemy)**.  
+- Connected to SQL-based ledger system with automated ETL pipelines using **Python (pandas, SQLAlchemy)**.
 
-#### **2. Logistics Route Optimization**  
+#### **2. Automated Annual Company Statement Reporting**  
+🔗 [GitHub Repo](#) | 📝 **Financial Reporting Automation**  
+- Automated the generation of **annual company performance reports** from ERP and CRM systems.  
+- Used **Python (pandas, Jinja2)** and **Power BI Paginated Reports** to produce publish-ready PDFs.  
+- Reduced manual reporting effort by 50% and improved reporting accuracy.  
+- #### **2. Financial Forecasting & Portfolio Optimization**  
+
+#### **2. Financial Risk Analysis**  
+🔗 [GitHub Repo](#) | 💹 **Finance Analytics / Risk Management**  
+- Built models for **time-series financial forecasting (ARIMA, Prophet)** and portfolio optimization.  
+- Delivered **Value at Risk (VaR)** and **Sharpe Ratio** calculations for risk profiling.  
+- Automated data pipelines using **Python (pandas), SQL, Power BI**.  
+
+#### **3. Fraud Detection in E-commerce Transactions**  
+🔗 [GitHub Repo](#) | 🕵️ **Anomaly Detection with ML**  
+- Applied unsupervised learning (Isolation Forest, One-Class SVM) to detect suspicious transactions.  
+- Developed alert system integrated with business rules for **real-time fraud flagging**.
+
+#### **4. Fraud Detection in Financial Transactions**  
+🔗 [GitHub Repo](#) | 🔍 **Fraud Analytics / Risk Management**  
+- Built **anomaly detection models (Isolation Forest, Autoencoders)** to flag suspicious transactions.  
+- Integrated fraud alerts with **real-time dashboards (Splunk / Power BI)**.  
+- Reduced false positives through model tuning and feature engineering.
+  
+#### **5. Logistics Route Optimization & Cost Analysis**  
+🔗 [GitHub Repo](#) | 🚛 **Supply Chain Efficiency**  
+- Analyzed transportation data to **optimize delivery routes** and **minimize fuel costs** using geospatial analysis.  
+- Implemented **clustering algorithms (K-Means)** to identify distribution hubs.  
+- Visualized KPIs using **Tableau & Power BI dashboards**.  
+
+#### **6. Logistics Route Optimization**  
 🔗 [GitHub Repo](#) | 🚚 **Supply Chain & Delivery Intelligence**  
 - Designed a logistics efficiency model using **geospatial analysis and clustering (K-Means)** to minimize delivery costs.  
 - Resulted in a **17% reduction in transportation overhead** for a simulated e-commerce network.  
 
-#### **3. Retail Banking Churn Prediction**  
+#### **7. Retail Banking Churn Prediction**  
 🔗 [GitHub Repo](#) | 🏦 **Customer Retention in Banking**  
 - Built a **churn prediction model** using logistic regression and decision trees (Scikit-learn).  
-- Enabled targeted retention campaigns with a **lift of 23%** in high-risk customer segment engagement.  
+- Enabled targeted retention campaigns with a **lift of 23%** in high-risk customer segment engagement.
 
-#### **4. Sales Forecasting Engine**  
+- #### **8. Banking Customer Segmentation**  
+🔗 [GitHub Repo](#) | 🏦 **Customer Analytics / Retention Strategy**  
+- Built **customer segmentation models (RFM Analysis, K-Means Clustering)**.  
+- Predicted churn using **Random Forest and Logistic Regression**, improving retention strategies.  
+- Delivered insights through interactive **Power BI dashboards** shared with stakeholders.  
+
+
+
+#### **9. Sales Forecasting Engine**  
 🔗 [GitHub Repo](#) | 📈 **Demand Prediction**  
 - Time series forecasting using **ARIMA and Facebook Prophet** on historical POS data.  
-- Integrated seasonal promotions and weather patterns for accurate demand projections.  
+- Integrated seasonal promotions and weather patterns for accurate demand projections.
 
-#### **5. Targeted Marketing Campaign Analytics**  
+- #### **10 Sales Funnel Optimization & Revenue Analysis**  
+🔗 [GitHub Repo](#) | 📈 **Revenue Growth & Funnel Analytics**  
+- Mapped the **sales funnel** to identify lead drop-off points.  
+- Built predictive models to forecast **monthly recurring revenue (MRR)**.  
+- Automated reporting with **Power Query and Power BI**. 
+
+#### **11. Targeted Marketing Campaign Analytics**  
 🔗 [GitHub Repo](#) | 🎯 **Customer Segmentation & ROI Tracking**  
 - Leveraged **RFM analysis and K-means clustering** to create customer personas.  
 - Monitored A/B test performance to **optimize email marketing ROI by 38%**.  
 
-#### **6. Fraud Detection in E-commerce Transactions**  
-🔗 [GitHub Repo](#) | 🕵️ **Anomaly Detection with ML**  
-- Applied unsupervised learning (Isolation Forest, One-Class SVM) to detect suspicious transactions.  
-- Developed alert system integrated with business rules for **real-time fraud flagging**.  
+### **B. Industry-Focused Analytics Projects**
 
-#### **7. Automated Annual Company Statement Reporting**  
-🔗 [GitHub Repo](#) | 🧾 **Financial Document Automation**  
-- Built a reporting tool using **Python + Jinja2 + Excel templates** to auto-generate annual reports from raw data.  
-- Includes **visual summaries, financial KPIs, and peer comparisons**.  
+#### **12. Human Capital Insights Dashboard**  
+🔗 [GitHub Repo](#) | 👥 **Workforce Analytics & Retention**  
+- Built a **Power BI / Tableau dashboard** for employee turnover, diversity metrics, and engagement survey insights.  
+- Leveraged **predictive analytics (Logistic Regression)** to forecast attrition risks, improving HR intervention strategies.  
+
+#### **13. Real Estate Hotel Booking Analysis**  
+🔗 [GitHub Repo](#) | 🏨 **Demand & Pricing Optimization**  
+- Analyzed seasonal trends in hotel bookings using **time series forecasting (Prophet)** and competitor benchmarking.  
+- Created a **dynamic pricing model** that improved booking conversion rates during off-peak seasons.  
+
+#### **14. Hospital Waiting Time Analytics**  
+🔗 [GitHub Repo](#) | ⏱️ **Patient Flow Optimization**  
+- Modeled ER and outpatient waiting times using **queueing theory and regression analysis**.  
+- Identified bottlenecks and recommended staffing changes, reducing wait times by **15%**.  
+
+#### **15. Hospital Bed Occupancy & Capacity Planning**  
+🔗 [GitHub Repo](#) | 🛏️ **Resource Utilization in Healthcare**  
+- Developed a bed occupancy forecast tool with **time series & capacity utilization models**.  
+- Helped maintain optimal occupancy rates, improving patient throughput without exceeding capacity.  
+
+#### **16. Critical Care Resource Allocation**  
+🔗 [GitHub Repo](#) | 🚑 **ICU & Emergency Resources Optimization**  
+- Built a **real-time resource allocation dashboard** integrating ICU bed data, ventilator usage, and staffing levels.  
+- Supported pandemic surge planning and critical care response efficiency.  
+
+#### **17. Contractor & Resource Management Platform**  
+🔗 [GitHub Repo](#) | 🛠️ **Workforce Scheduling & Optimization**  
+- Automated contractor scheduling and project resource allocation using **linear programming optimization**.  
+- Improved project delivery timelines and **reduced underutilization by 20%**.
+
+
+
+
+#### **18. Supply Chain Demand Forecasting & Inventory Optimization**  
+🔗 [GitHub Repo](#) | 🏬 **Inventory & Demand Analytics**  
+- Developed demand forecasting models with **SARIMAX and Prophet** to optimize inventory levels.  
+- Reduced stockouts and overstock by 15% through **scenario analysis**.  
+- Automated dashboards for warehouse and procurement teams.
+
+- #### **19. Targeted Customer Marketing Campaign Analytics**  
+🔗 [GitHub Repo](#) | 🎯 **Marketing Analytics / Campaign ROI**  
+- Analyzed customer purchasing behavior to design **targeted marketing campaigns**.  
+- Measured campaign success using **uplift models** and **A/B testing frameworks**.  
+- Visualized results in **Looker & Tableau**, improving ROI by 20%.  
+
+
 
 
 ---
