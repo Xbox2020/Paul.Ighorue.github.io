@@ -4,8 +4,8 @@ Before we get ahead of ourselves, we must remember C"Claboration always outpaces
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
-I am an experienced Business Analyst and my love for using data in businees Intelligence now leads in my transitioning into a ;
-Cybersecurity Specialist | OSINT Expert | Penetration Tester  with a view to becoming a CISo that not just protects data but makes it a bad day for threat actors!!!
+I am an experienced Business Analyst across many industries, clims, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
+Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO that not just protects data but makes it a bad day for threat actors!!!
 I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense.
 
 
@@ -86,7 +86,7 @@ Collaorations: Confluence, Jira
 - Red Hat Certified System Administrator (RHCSA)
 - Microsoft Cybersecurity Architect Expert Certification
 - HTB Academy Penetration Testing Specialist Certification
-- TRM Defending Azure Certification
+- THM Defending Azure Certification
 
 
 (Email a Request to see them all [[here](httpbit.ly4euDiea)](#))
@@ -241,6 +241,70 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Automated contractor scheduling and project resource allocation using **linear programming optimization**.  
 - Improved project delivery timelines and **reduced underutilization by 20%**.
 
+
+---
+### **D. Cross-Industry Analytics & Automation Projects**
+
+
+#### **1. Aviation Fuel Efficiency & Route Optimization**  
+🔗 [GitHub Repo](#) | ✈️ **Aviation / Cost Optimization**  
+- Built **Python & SQL models** to analyze flight telemetry data for route optimization.  
+- Reduced fuel costs by analyzing historical flight patterns and weather data.  
+- Created **Power BI dashboards** for real-time fuel burn and route deviation monitoring.
+
+#### **2. Manufacturing Process Automation & Defect Analysis**  
+🔗 [GitHub Repo](#) | 🏭 **Smart Manufacturing / Quality Control**  
+- Automated shop floor data collection with **Java microservices and Python scripts**.  
+- Built a **Tableau dashboard** to track defect rates, machine downtime, and throughput.  
+- Improved production line yield by **12%** using real-time alerts and predictive maintenance.
+
+#### **3. Transportation Fleet Route Planning & Maintenance Analytics**  
+🔗 [GitHub Repo](#) | 🚚 **Fleet Management / Operational Efficiency**  
+- Designed a **fleet route optimization model (Python, Google OR-Tools)** minimizing fuel consumption.  
+- Monitored vehicle telemetry via Azure IoT Hub & automated maintenance alerts with Power Automate.  
+- Visualized KPIs (fuel consumption, downtime, route efficiency) in **Power BI & Excel**.
+
+#### **4. Banking Transaction Automation & Reconciliation**  
+🔗 [GitHub Repo](#) | 🏦 **Banking / Financial Operations**  
+- Automated daily transaction reconciliation using **SQL Stored Procedures & Power Automate flows**.  
+- Developed anomaly detection for failed payments using **Python + Azure Logic Apps**.  
+- Built **executive dashboards in Power BI** to monitor reconciliation KPIs & SLA compliance.
+
+#### **5. Cloud Cost Optimization & Service Monitoring Platform**  
+🔗 [GitHub Repo](#) | ☁️ **Cloud Services Management**  
+- Automated cloud service usage tracking across **Azure, AWS, and GCP** with Python APIs.  
+- Built a **Power BI dashboard** for real-time cost tracking, unused resource detection, and auto-shutdown triggers.  
+- Achieved **18% cloud cost savings** via proactive management.
+
+#### **6. eCommerce Sales Funnel Automation & Customer Insights**  
+🔗 [GitHub Repo](#) | 🛒 **eCommerce / Customer Analytics**  
+- Automated the customer segmentation and sales funnel reporting using **Python, SQL, and Power BI**.  
+- Created a **conversion funnel dashboard in Tableau** to track product drop-offs and campaign ROIs.  
+- Improved targeted email campaigns using **segmentation models** and marketing automation tools.
+
+#### **7. Consulting Practice Performance & Resource Utilization Analytics**  
+🔗 [GitHub Repo](#) | 💼 **Consulting / Practice Management**  
+- Built a **Power BI reporting suite** to monitor billable utilization, project margins, and proposal pipelines.  
+- Automated consultant assignment optimization using Python & Excel solver.  
+- Improved resource allocation visibility across global teams.
+
+#### **8. Transportation Scheduling & Demand Forecasting**  
+🔗 [GitHub Repo](#) | 🚆 **Public Transport & Logistics Analytics**  
+- Forecasted passenger demand using **time-series forecasting (Prophet, ARIMA) in Python & SQL**.  
+- Automated train/bus schedule optimization to meet peak/off-peak demands.  
+- Deployed dashboards in Power BI & Tableau to monitor occupancy and delays.
+
+#### **9. Manufacturing Inventory & Supply Chain Automation**  
+🔗 [GitHub Repo](#) | 🏗️ **Manufacturing / Supply Chain Optimization**  
+- Automated procurement & inventory restocking using **Azure Functions + Python scripts**.  
+- Improved vendor lead time tracking and inventory turnover rates visualized in **Power BI**.  
+- Reduced stock-outs by 20% using predictive re-ordering algorithms.
+
+#### **10. Automation of Financial Reporting Processes in Banking & eCommerce**  
+🔗 [GitHub Repo](#) | 📊 **Automation / Financial Reporting**  
+- Automated generation of financial statements using **Python, SQL, and Power BI Paginated Reports**.  
+- Streamlined eCommerce payment gateway reconciliation into financial close processes.  
+- Reduced month-end reporting timelines by **30%** through end-to-end automation.
 
 
 
