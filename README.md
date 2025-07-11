@@ -4,9 +4,11 @@ Before we get ahead of ourselves, we must remember C"Claboration always outpaces
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
-I am an experienced Business Analyst across many industries, clims, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
-Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO that not just protects data but makes it a bad day for threat actors!!!
-I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense.
+I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
+Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO.
+  
+  ...that not just protects data but makes it a bad day for threat actors!!!
+I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense, hence if you look into my Repos, you will find a knowledge base you can apply to business problems.
 
 
 
@@ -26,9 +28,15 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
 ---
 
-## 🔎 Interested inthese aspects of cloud technology:
+## 🔎 Interested in these aspects of Analytics, Cyber and Cloud Technology:
 
-`Penetration Testing`, `Ethical Hacking`, `Cloud Security`, `Offensive Security`, `AWS Security`, `Azure Security`, `GCP Security`, `Vulnerability Assessment`, `Red Hat Certified`, `Linux Security`, `DevSecOps`, `Red Team`, `Blue Team`, `Kubernetes Security`, `Zero Trust`, `SOC Analyst`, `SIEM`, `Incident Response`, `Infrastructure as Code`, `Python Scripting`, `Threat Hunting`, `Security Automation`, `Cloud Native Security`, `OWASP`, `Security Engineering`, `Cybersecurity Architecture`, `Zero-Day Analysis`
+<p align="center">
+
+`Penetration Testing`, `Ethical Hacking`, `Cloud Security`, `Offensive Security`, `AWS Security`, `Azure Security`, `GCP Security`, `Vulnerability Assessment`, `Red Hat Certified`, `Linux Security`, `DevSecOps`, `Red Team`, `Blue Team`, `Kubernetes Security`, `Zero Trust`, `SOC Analyst`, `SIEM`, `Incident Response`, `Infrastructure as Code`, `Python Scripting`, `Threat Hunting`, `Security Automation`, `Data Analysis`, `Data Visualization`, `Descriptive Analytics`, `Predictive Analytics`, `Prescriptive Analytics`, `Business Intelligence (BI)`, `Power BI`, `Tableau`, `Looker`, `Google Data Studio`, `SQL for Analytics`, `Zero-Day Analysis`, `Advanced Excel`, `ETL Processes`, `Data Warehousing`, `Snowflake`, `Amazon Redshift`, `Google BigQuery`, `Data-Driven Decision Making`, `Dashboard Development`, `KPI & Metrics Design`, `A/B Testing`, `Statistical Modeling`, `Machine Learning for Business`, `Time Series Forecasting`, `Customer Segmentation`, `Churn Analysis`, `Market Basket Analysis`, `Data Storytelling`, `Business Process Optimization`, `Digital Transformation`, `Business Strategy Analytics`, `Financial Analytics`, `Operations Analytics`, `Marketing Analytics`, `Python for Data Analysis`, `R for Analytics`, `Alteryx`, `Data Governance`, `Data Quality Management`, `Big Data Analytics`, `Self-Service BI`, `Cloud BI Solutions`, `Data Lake Architecture`, `Agile Analytics`, `BI Project Management`, `Analytics Engineering`, `CRM Analytics`, `Cloud Native Security`, `OWASP`, `Security Engineering`, `Cybersecurity Architecture`
+
+</p>
+
+
 
 
 
