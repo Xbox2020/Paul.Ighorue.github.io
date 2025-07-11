@@ -85,7 +85,67 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
   
 
-## 🔧 Skills
+## 🔧 💻 Tech Stack &  📊 Business Analysis Skills & Tools
+
+### 🔍 Core Business Analysis Skills
+- Requirements Gathering & Elicitation (Workshops, Interviews, Surveys)
+- Process Mapping & Optimization (BPMN, SIPOC, Value Stream Mapping)
+- Stakeholder Management & Communication
+- User Stories & Use Cases (Agile, Scrum, Kanban)
+- Gap Analysis, SWOT, MoSCoW Prioritization, RACI Matrices
+- Business Process Reengineering (BPR)
+- Change Management Support
+- Risk & Impact Analysis
+
+### ⚙️ Business Analysis Tools
+- Microsoft Visio, Lucidchart, Draw.io
+- Jira, Confluence, Azure DevOps, Trello
+- Balsamiq, Figma, Adobe XD (for wireframing & prototyping)
+- Tableau, Power BI, Excel (Advanced Data Analysis)
+- SQL (for querying business data)
+- ServiceNow, Salesforce (CRM Process Mapping)
+- IBM Blueworks Live, ARIS
+
+### 📈 Documentation & Reporting
+- Business Requirements Documents (BRD)
+- Functional & Non-Functional Requirements
+- Solution Design Documents (SDD)
+- Test Case Writing & UAT Planning
+- Process Documentation & SOPs
+- Executive Reporting & Dashboards
+
+### 🔄 Methodologies & Frameworks
+- Agile (Scrum, SAFe), Waterfall, Hybrid Delivery Models
+- Lean Six Sigma Fundamentals
+- ITIL & TOGAF (Basic Knowledge)
+- BABOK Framework (Business Analysis Body of Knowledge)
+
+
+### 🛡️ Penetration Testing & Security Tools
+- Metasploit, Burp Suite, Wireshark, Nmap, Nessus, Nikto, OpenVAS
+- Kali Linux, Parrot OS, Red Hat Linux
+- SIEM Tools: Splunk, ELK Stack, Microsoft Sentinel
+- Vulnerability Management: Qualys, Tenable, Rapid7
+
+### ☁️ Cloud Platforms & Security
+- **AWS**: IAM, GuardDuty, Inspector, Security Hub, WAF, KMS
+- **Azure**: Defender for Cloud, Key Vault, Network Security Groups
+- **GCP**: Security Command Center, Cloud IAM, VPC Service Controls
+
+### 🔐 Cybersecurity Focus Areas
+- Cloud Penetration Testing
+- Red Team / Blue Team Operations
+- Infrastructure as Code (IaC) Security (Terraform, CloudFormation)
+- Zero Trust Architectures
+- Secure CI/CD Pipelines
+- Endpoint Detection and Response (EDR)
+
+### 💻 Programming & Scripting
+- Python, Bash, PowerShell, Go
+- YAML, JSON
+- Secure API Development and Testing
+
+---
 Languages: Python, SQL, Excel, Power BI, GoLANG, Java
 Cybersecurity: VAPT, Penetration Testing, Vulnerability Assessment   
 OSINT Tools: ExifTool, Recon-ng, SpiderFoot, FinalRecon    
