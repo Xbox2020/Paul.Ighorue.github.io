@@ -13,9 +13,9 @@ I am Passionate about large-scale digital projects, providing strategic insights
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ighoruepaul/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Works-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://datascienceportfol.io/ighoruejp)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourprofile)
-[![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
+[![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
+
 
 
 ---  
