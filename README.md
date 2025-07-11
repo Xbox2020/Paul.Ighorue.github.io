@@ -24,6 +24,13 @@ I am Passionate about large-scale digital projects, providing strategic insights
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500">
 </p>
 
+---
+
+## 🔎 Interested inthese aspects of cloud technology:
+
+`Penetration Testing`, `Ethical Hacking`, `Cloud Security`, `Offensive Security`, `AWS Security`, `Azure Security`, `GCP Security`, `Vulnerability Assessment`, `Red Hat Certified`, `Linux Security`, `DevSecOps`, `Red Team`, `Blue Team`, `Kubernetes Security`, `Zero Trust`, `SOC Analyst`, `SIEM`, `Incident Response`, `Infrastructure as Code`, `Python Scripting`, `Threat Hunting`, `Security Automation`, `Cloud Native Security`, `OWASP`, `Security Engineering`, `Cybersecurity Architecture`, `Zero-Day Analysis`
+
+
 
 
 ---  
@@ -65,14 +72,6 @@ I am Passionate about large-scale digital projects, providing strategic insights
 
 ---
 
-
-## 🔎 Interested inthese aspects of cloud technology:
-
-`Penetration Testing`, `Ethical Hacking`, `Cloud Security`, `Offensive Security`, `AWS Security`, `Azure Security`, `GCP Security`, `Vulnerability Assessment`, `Red Hat Certified`, `Linux Security`, `DevSecOps`, `Red Team`, `Blue Team`, `Kubernetes Security`, `Zero Trust`, `SOC Analyst`, `SIEM`, `Incident Response`, `Infrastructure as Code`, `Python Scripting`, `Threat Hunting`, `Security Automation`, `Cloud Native Security`, `OWASP`, `Security Engineering`, `Cybersecurity Architecture`, `Zero-Day Analysis`
-
-
-
----
 
 
 ## 🎓 Education 🏫🎒📚
