@@ -117,6 +117,8 @@ Collaorations: Confluence, Jira
 - HTB Academy Penetration Testing Specialist Certification
 - THM Defending Azure Certification
 
+Email a Request to see them all [**here**](mailto:ighoruejp@gmail.com)
+
 
 (Email a Request to see them all [[here](httpbit.ly4euDiea)])
 
