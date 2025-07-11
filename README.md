@@ -2,9 +2,11 @@
 # 👋 Hi, I'm IGHORUE Paul
 Before we get ahead of ourselves, we must remember C"Claboration always outpaces Competition!".
 
+### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
+
 I am an experienced Business Analyst and my love for using data in businees Intelligence now leads in my transitioning into a ;
 Cybersecurity Specialist | OSINT Expert | Penetration Tester  with a view to becoming a CISo that not just protects data but makes it a bad day for threat actors!!!
-I am Passionate about Ethical Hacking, VAPT, and Cyber Defense....and you can view my daily contributing as regards in these areas;
+I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense.
 
 [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](linkedin.com/in/ighoruepaul/)
 [![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpswww.linkedin.cominighoruepaul)
