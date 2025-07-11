@@ -118,7 +118,7 @@ Collaorations: Confluence, Jira
 - THM Defending Azure Certification
 
 
-Email a Request to see them all [[here](httpbit.ly4euDiea)]
+(Email a Request to see them all [[here](httpbit.ly4euDiea)])
 
 ---
 
