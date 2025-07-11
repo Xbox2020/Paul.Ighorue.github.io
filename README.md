@@ -63,6 +63,13 @@ I am Passionate about large-scale digital projects, providing strategic insights
 | **OSINT Tools**                      | ExifTool, Recon-ng, SpiderFoot, FinalRecon                                                                                     |
 | **Visualisations & Collaboration**   | Visio, Power BI, Excel, Tableau, Confluence, Jira                                                                              |
 
+---
+
+
+## 🔎 Interested inthese aspects of cloud technology:
+
+`Penetration Testing`, `Ethical Hacking`, `Cloud Security`, `Offensive Security`, `AWS Security`, `Azure Security`, `GCP Security`, `Vulnerability Assessment`, `Red Hat Certified`, `Linux Security`, `DevSecOps`, `Red Team`, `Blue Team`, `Kubernetes Security`, `Zero Trust`, `SOC Analyst`, `SIEM`, `Incident Response`, `Infrastructure as Code`, `Python Scripting`, `Threat Hunting`, `Security Automation`, `Cloud Native Security`, `OWASP`, `Security Engineering`, `Cybersecurity Architecture`, `Zero-Day Analysis`
+
 
 
 ---
