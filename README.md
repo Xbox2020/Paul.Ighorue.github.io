@@ -8,13 +8,14 @@ I am an experienced Business Analyst and my love for using data in businees Inte
 Cybersecurity Specialist | OSINT Expert | Penetration Tester  with a view to becoming a CISo that not just protects data but makes it a bad day for threat actors!!!
 I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense.
 
-[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](linkedin.com/in/ighoruepaul/)
-[![LinkedIn](httpsimg.shields.iobadgeLinkedIn-Connect-bluestyle=flat&logo=linkedin)](httpswww.linkedin.cominighoruepaul)
-[![YouTube](httpsimg.shields.iobadgeYouTube-Subscribe-redstyle=flat&logo=youtube)](httpswww.youtube.com@JohnPaulIghorue)
-[![Projects](httpsimg.shields.iobadge📄-View_Projects-green)](httpsyourresumelink.com)
-- ![Static Badge](httpsimg.shields.iobadgeCreate_any_textBadge_you_like_today-Click_Here-red)
 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ighoruepaul/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20My%20Works-blueviolet?style=for-the-badge&logo=data:image/svg+xml;base64,)](https://datascienceportfol.io/ighoruejp)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/yourprofile)
+[![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
 
 
 ---  
