@@ -107,15 +107,26 @@ Collaorations: Confluence, Jira
 </p>
 
 
----
-- Google Cyber Security for Professionals
-- Cisco Junior Cybersecurity Analyst
-- - CompTIA Network+
-- CompTiIA Security+
-- Red Hat Certified System Administrator (RHCSA)
-- Microsoft Cybersecurity Architect Expert Certification
-- HTB Academy Penetration Testing Specialist Certification
-- THM Defending Azure Certification
+
+## 🏆 Certifications & Credentials
+
+| Certification                             | Issuing Body                            |
+|-------------------------------------------|-----------------------------------------|
+| ✅ Red Hat Certified Engineer (RHCE) Red Hat Certified System Administrator      | Red Hat                                 |
+| ✅ AWS Certified Security - Specialty     | Amazon Web Services                     |
+| ✅ Microsoft Certified: Azure Security Engineer Associate, Cybersecurity Architect Expert Certification | Microsoft                  |
+| ✅ Google Professional Cloud Security Engineer | Google Cloud                         |
+| ✅ Google Cyber Security for Professionals        | Google                             |
+| ✅ HTB Academy Penetration Testing Specialist Certification       | HackTheBox                            |
+| ✅ THM Defending Azure Certification       | TryHackMe                             |
+| ✅ Offensive Security Certified Professional (OSCP) | Offensive Security               |
+| ✅ CompTIA Network+, Security+, CySA+, Pentest+     | CompTIA                                 |
+| ✅ Google Cyber Security for Professionals        | Google                             |
+| ✅ GIAC Penetration Tester (GPEN)         | SANS Institute                          |
+| ✅ Certified Ethical Hacker (CEH)         | EC-Council                              |
+| ✅ Junior Cybersecurity Analyst         | Cisco                          |
+
+
 
 Email a Request to see them all [**here**](mailto:ighoruejp@gmail.com)
 
