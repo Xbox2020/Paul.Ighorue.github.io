@@ -37,9 +37,11 @@ I am Passionate about Ethical Hacking, VAPT, and Cyber Defense....and you can vi
   
 
 ## 🔧 Skills
-Languages Python, SQL, Excel, Power BI, GoLANG   
-Cybersecurity VAPT, Penetration Testing, Vulnerability Assessment   
-OSINT Tools ExifTool, Recon-ng, SpiderFoot, FinalRecon    
+Languages: Python, SQL, Excel, Power BI, GoLANG, Java
+Cybersecurity: VAPT, Penetration Testing, Vulnerability Assessment   
+OSINT Tools: ExifTool, Recon-ng, SpiderFoot, FinalRecon    
+Visualisations: Visio, Power BI, Excel, Tableau
+Collaorations: Confluence, Jira
 
 ## 🏆 Certifications
 - Google Cyber Security for Professionals
