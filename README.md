@@ -1,6 +1,8 @@
 
 # 👋 Hi, I'm IGHORUE Paul
-Before we get ahead of ourselves, we must remember C"Claboration always outpaces Competition!".
+Before we get ahead of ourselves, we must remember ...
+
+_"Claboration always outpaces Competition!"._
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
