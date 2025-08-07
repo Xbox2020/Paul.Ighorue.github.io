@@ -6,9 +6,8 @@ Before we get ahead of ourselves, we must remember ...
 
 _// ⚡ Collaboration > Competition_
 
-_"Const success = "Collaboration always 🚀 outpaces Competition!";_
+_"Const success = "Collaboration always 🚀 outpaces Competition! 🏁";_
 
- "🏁 I Stay humble, cos we can work together"
 
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
