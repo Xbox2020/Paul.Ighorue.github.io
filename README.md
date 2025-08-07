@@ -2,19 +2,13 @@
 # 👋 Hi, I'm IGHORUE Paul
 Before we get ahead of ourselves, we must remember ...
 
-_"Claboration always outpaces Competition!"._
 
-// ⚡ Collaboration > Competition
-const success = "Collaboration always outpaces Competition!";
 
-// Collaboration always outpaces Competition!
-const mindset = {
-  collaboration: "🚀 Always outpaces",
-  competition: "🏁 Stay humble, work together"
-};
+_// ⚡ Collaboration > Competition_
 
-console.log(`${mindset.collaboration} Competition!`);
+_"Const success = "Collaboration always 🚀 outpaces Competition!";_
 
+ "🏁 I Stay humble, cos we can work together"
 
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
