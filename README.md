@@ -7,10 +7,13 @@ Before we get ahead of ourselves, we must remember C"Claboration always outpaces
 I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
 Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO.
   
-  ...that not just protects data but makes it a bad day for threat actors!!!
-I am Passionate about large-scale digital projects, providing strategic insights that drive business success, Ethical Hacking, VAPT, and Cyber Defense, hence if you look into my Repos, you will find a knowledge base you can apply to business problems.
+My Goal is not just to protect data but to make it a very bad day for threat actors!!!
+I am Passionate about large-scale digital projects, providing strategic insights that drive business success, creating Business capability Assessment and Planning Systems. I enjoy working with Levels 8 & ( Operators; Planning, Designing and Executing Ethical Hacking, VAPT, and Cyber Defense Projects, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
 
-
+✅ Business Experience Design
+✅ Product Experience Design
+✅ Budget and Goals
+✅ Develpment and Managing Joint Planning Kits
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ighoruepaul/)
 [![Portfolio](https://img.shields.io/badge/📁%20Portfolio-View%20My%20Works-blueviolet?style=for-the-badge)](https://datascienceportfol.io/ighoruejp)
