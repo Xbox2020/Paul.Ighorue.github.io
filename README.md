@@ -4,9 +4,7 @@ Before we get ahead of ourselves, we must remember ...
 
 
 
-_// ⚡ Collaboration > Competition_
-
-_"Const success = "Collaboration always 🚀 outpaces Competition! 🏁";_
+_// ⚡ Collaboration > Competition_   AND   _"Const success = "Collaboration always 🚀 outpaces Competition! 🏁";_
 
 
 
