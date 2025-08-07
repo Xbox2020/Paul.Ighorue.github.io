@@ -48,7 +48,7 @@ I am Passionate about large-scale digital projects, providing strategic insights
 # 👋 Hey Click the Stars Button in the Top Right Hand Corner, and Lets Talk Data & Securing it! 💬🤓🫡
 💼 **Open to:
 
-- Power Bi Projects and Cloud Services in Microsoft 365
+- Power Bi Projects and Cloud Services in Microsoft 365, Fabric, and Azure.
 - Cloud Enterprise using AWS, Google and Azure for Business Solutions
 - Back-end REST API Development with Node.JS and Express
 - Implementation of custom and third-party authentication function using Node.JS
