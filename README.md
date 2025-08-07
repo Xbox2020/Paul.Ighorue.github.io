@@ -4,6 +4,10 @@ Before we get ahead of ourselves, we must remember ...
 
 _"Claboration always outpaces Competition!"._
 
+// ⚡ Collaboration > Competition
+const success = "Collaboration always outpaces Competition!";
+
+
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
 I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
