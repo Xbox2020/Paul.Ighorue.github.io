@@ -7,6 +7,15 @@ _"Claboration always outpaces Competition!"._
 // ⚡ Collaboration > Competition
 const success = "Collaboration always outpaces Competition!";
 
+// Collaboration always outpaces Competition!
+const mindset = {
+  collaboration: "🚀 Always outpaces",
+  competition: "🏁 Stay humble, work together"
+};
+
+console.log(`${mindset.collaboration} Competition!`);
+
+
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
