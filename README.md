@@ -10,7 +10,7 @@ _// ⚡ Collaboration > Competition_   AND   _"Const success = "Collaboration al
 
 ### **Business Intelligence Analyst | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
-I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a ;
+I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a
 Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO.
   
 My Goal is not just to protect data but to make it a very bad day for threat actors!!!
