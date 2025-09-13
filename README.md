@@ -16,8 +16,8 @@ Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to beco
 My Goal exploring data for business decisions drives is not just to protect it but to make it a very bad day for threat actors!!!
 I am Passionate about large-scale digital projects that drive business success, creating Business capability Assessment and Planning Systems. 
 
-I enjoy working with Level 8 Operators; Planning, Designing and Executing Projects.
-Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Projects, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
+I enjoy working in Complex, multi-dependecy projects and environments; Planning, Designing and Executing Intelligent Collaborations of Technology, Process, People and Infrastructure.
+Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
 
 ✅ Business Experience Design
 ✅ Product Experience Design
@@ -28,7 +28,7 @@ Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Projects, hence if y
 [![Portfolio](https://img.shields.io/badge/📁%20Portfolio-View%20My%20Works-blueviolet?style=for-the-badge)](https://datascienceportfol.io/ighoruejp)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
-[![Mail](https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
+[![EMail]-Me(https://img.shields.io/badge/Mail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
 ---
 # GetGitAndGetBy<<<<<>>>>>OrGoHome!
