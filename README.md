@@ -92,7 +92,9 @@ Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hen
 
 ---
 
+[![See-My-Projects](https://img.shields.io/badge/EMail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
+---
 
 ## 🎓 Education 🏫🎒📚
 - MSc. International Business and Global Finance, Hertfordshire University | Dean Award Winner | Graduated 1st Class
