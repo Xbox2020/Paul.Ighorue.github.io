@@ -28,7 +28,7 @@ Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hen
 [![Portfolio](https://img.shields.io/badge/📁%20Portfolio-View%20My%20Works-blueviolet?style=for-the-badge)](https://datascienceportfol.io/ighoruejp)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/yourprofile)
 [![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/2456537)
-[![EMail-Me](https://img.shields.io/badge/EMail-Me%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
+[![EMail-Me](https://img.shields.io/badge/EMail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
 ---
 # GetGitAndGetBy<<<<<>>>>>OrGoHome!
