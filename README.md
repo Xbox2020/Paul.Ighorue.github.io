@@ -17,7 +17,7 @@ My Goal exploring data for business decisions drives is not just to protect it b
 I am Passionate about large-scale digital projects that drive business success, creating Business capability Assessment and Planning Systems. 
 
 I enjoy working in Complex, multi-dependecy projects and environments; Planning, Designing and Executing Intelligent Collaborations of Technology, Process, People and Infrastructure.
-Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
+Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hence if you look into my BIBA and Cyber Repos, you will find a knowledge base I can help you apply to your organizational business problems.
 
 ✅ Business Experience Design
 ✅ Product Experience Design
