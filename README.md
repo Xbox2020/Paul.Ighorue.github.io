@@ -92,7 +92,7 @@ Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hen
 
 ---
 
-[![See-My-Projects](https://img.shields.io/badge/EMail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
+[![See-My-Projects](https://img.shields.io/badge/My%20Portfolio%20-See%20My%20Projects-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
 ---
 
