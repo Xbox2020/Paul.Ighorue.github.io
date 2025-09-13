@@ -31,7 +31,7 @@ Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Transformations, hen
 [![EMail-Me](https://img.shields.io/badge/EMail%20Me%20-Let's%20Connect-blueviolet?style=for-the-badge)](mailto:ighoruejp@gmail.com)
 
 ---
-# GetGitAndGetBy<<<<<>>>>>OrGoHome!
+# Get Git And Get By<<<<<>>>>>Or Go Home!
 
 <!-- Header GIF -->
 <p align="center">
