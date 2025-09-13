@@ -10,11 +10,14 @@ _// ⚡ Collaboration > Competition_   AND   _"Const success = "Collaboration al
 
 ### **Business Intelligence Consultant | Offensive Security Engineer | Cloud Security Specialist | Penetration Tester**  
 
-I am an experienced Business Analyst across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a
+As an experienced Business Consultant, I collaborate across many industries, climes, geolocations, and my love for using data in Businees Intelligence Sectors now leads in my transitioning into a
 Cybersecurity Specialist | OSINT Expert | Penetration Tester with a view to becoming a CISO.
   
-My Goal is not just to protect data but to make it a very bad day for threat actors!!!
-I am Passionate about large-scale digital projects, providing strategic insights that drive business success, creating Business capability Assessment and Planning Systems. I enjoy working with Levels 8 & ( Operators; Planning, Designing and Executing Ethical Hacking, VAPT, and Cyber Defense Projects, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
+My Goal exploring data for business decisions drives is not just to protect it but to make it a very bad day for threat actors!!!
+I am Passionate about large-scale digital projects that drive business success, creating Business capability Assessment and Planning Systems. 
+
+I enjoy working with Level 8 Operators; Planning, Designing and Executing Projects.
+Heavily involed in Ethical Hacking, VAPT, and Cyber Defense Projects, hence if you look into my Repos, you will find a knowledge base I can help you apply to your organizational business problems.
 
 ✅ Business Experience Design
 ✅ Product Experience Design
