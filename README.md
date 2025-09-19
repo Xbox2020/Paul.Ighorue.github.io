@@ -436,10 +436,11 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Automated dashboards for warehouse and procurement teams.
 
 - #### **19. Targeted Customer Marketing Campaign Analytics**  
-🔗 [GitHub Repo](#) | 🎯 **Marketing Analytics / Campaign ROI**  
+ 🎯 **Marketing Analytics / Campaign ROI**  
 - Analyzed customer purchasing behavior to design **targeted marketing campaigns**.  
 - Measured campaign success using **uplift models** and **A/B testing frameworks**.  
-- Visualized results in **Looker & Tableau**, improving ROI by 20%.  
+- Visualized results in **Looker & Tableau**, improving ROI by 20%.
+- 🔗 [GitHub Repo](#) |
 
 
 - #### **20. Project Management - Consultants Churn Analysis and Vacancy Rates Simulation Tracker
@@ -447,9 +448,7 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Analyzed historical employee data to identify key churn drivers like tenure, workload, and satisfaction scores.
 - Built predictive models for vacancy rate simulations using scenario analysis and forecasting techniques.
 - Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
-[![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886vapt-scanner-link-from-Repositories-URL)
-
-[![DuplicateThisWithLink](https://img.shields.io/badge/ProjectFiles-Request%20Access-blue?style=for-the-badge&logo=Repo)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
+🔗 [GitHub Repo](#) | [![DuplicateThisWithLink](https://img.shields.io/badge/ProjectFiles-Request%20Access-blue?style=for-the-badge&logo=Repo)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
 
 ---
 
