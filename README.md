@@ -449,7 +449,7 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
 [![Repo Link](httpsimg.shields.iobadge🔗-Repository-black)](httpsgithub.compath1886vapt-scanner-link-from-Repositories-URL)
 [![SeeProject](https://img.shields.io/badge/Email-Request%20Access-blue?style=for-the-badge&logo=gmail)](mailto:ighoruejp@gmail.com)
-
+[![DuplicateThisWithLink](https://img.shields.io/badge/ProjectFiles-Request%20Access-blue?style=for-the-badge&logo=PowerBi)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
 
 ---
 
