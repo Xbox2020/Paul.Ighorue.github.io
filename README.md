@@ -449,7 +449,7 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Built predictive models for vacancy rate simulations using scenario analysis and forecasting techniques.
 - Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
 - 
-🔗 [GitHub Repo](#) | [![DuplicateThisWithLink](https://img.shields.io/badge/ProjectFiles-Request%20Access-blue?style=for-the-badge&logo=Repo)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
+🔗 [GitHub Repo](#) | [![DuplicateThisWithLink](https://img.shields.io/badge/GitHub Repo-Request%20Access-blue?style=for-the-badge&logo=Repo)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
 
 ---
 
