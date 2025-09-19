@@ -443,7 +443,7 @@ Features Automated scans, vulnerability reports, remediation guides.
 
 
 - #### **20. Project Management - Consultants Churn Analysis and Vacancy Rates Simulation Tracker
-🔗 [GitHub Repo](#)(https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker) | 🎯 Consultants Churn Analysis / Vacancy Rates Simulation Tracker
+🔗 [GitHub Repo]([#](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker))() | 🎯 **Consultants Churn Analysis / Vacancy Rates Simulation Tracker**
 - Analyzed historical employee data to identify key churn drivers like tenure, workload, and satisfaction scores.
 - Built predictive models for vacancy rate simulations using scenario analysis and forecasting techniques.
 - Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
