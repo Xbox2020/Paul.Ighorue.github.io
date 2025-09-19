@@ -442,6 +442,15 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Visualized results in **Looker & Tableau**, improving ROI by 20%.  
 
 
+- #### **20. Project Management - Consultants Churn Analysis and Vacancy Rates Simulation Tracker
+
+🔗 GitHub Repo | 🎯 Consultants Churn Analysis / Vacancy Rates Simulation Tracker
+
+Analyzed historical employee data to identify key churn drivers like tenure, workload, and satisfaction scores.
+Built predictive models for vacancy rate simulations using scenario analysis and forecasting techniques.
+Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
+
+
 
 
 ---
