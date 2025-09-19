@@ -448,7 +448,7 @@ Features Automated scans, vulnerability reports, remediation guides.
 - Analyzed historical employee data to identify key churn drivers like tenure, workload, and satisfaction scores.
 - Built predictive models for vacancy rate simulations using scenario analysis and forecasting techniques.
 - Visualized trends and projections in Power BI dashboards, supporting retention initiatives and reducing churn by 15%.
-🔗  [![DuplicateThisWithLink](https://img.shields.io/badge/RightClick%20To%20Access-Repo%20Files-blue?style=for-the-badge&logo=Mail)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
+🔗  [![DuplicateThisWithLink](https://img.shields.io/badge/Right-Click%20To%20Access-Repo%20Files-blue?style=for-the-badge&logo=Mail)](https://github.com/Xbox2020/BIBA-Consultants-Churn-Analysis-Vacancy-Rates-Simulation-Tracker)
 
 
 ---
